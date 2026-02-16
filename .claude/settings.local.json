@@ -18,7 +18,11 @@
 			"WebFetch(domain:community.openai.com)",
 			"WebFetch(domain:platform.openai.com)",
 			"WebFetch(domain:ttsopen.ai)",
-			"Bash(find:*)"
+			"Bash(find:*)",
+			"Bash(npx vercel:*)",
+			"Bash(vercel link:*)",
+			"Bash(vercel env add:*)",
+			"Bash(vercel:*)"
 		]
 	}
 }
